@@ -1,0 +1,42 @@
+.container{
+  background-color: #1a1a00;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  border: 6px solid black;
+  width: 100vw;
+  box-sizing: border-box;
+
+}
+.box-item{
+text-align: center;
+color: #00e6b8;
+font-family: "Pangolin", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+
+.box1{
+
+  font-size: 20px;
+  font-size: 2rem;
+  align-content: flex-end;
+height: 30vh;
+  width: 80vw;
+}
+
+.small{
+
+  width: 40vw;
+  font-size: 30px;
+  align-self: flex-end;
+}
+.box4{
+
+  width: 80vw;
+}
+#heading{
+padding-bottom: 150px;
+}
